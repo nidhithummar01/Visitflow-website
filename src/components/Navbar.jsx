@@ -58,7 +58,7 @@ export default function Navbar({ onNav }) {
             <Zap size={16} color="#fff" fill="#fff" />
           </div>
           <span style={{ fontSize: 17, fontWeight: 800, color: 'var(--text)', letterSpacing: '-0.5px' }}>
-            VISIT<span style={{ color: '#1B4FD8' }}>R</span>AK
+            VISI<span style={{ color: '#1B4FD8' }}>FLOW</span>
           </span>
         </button>
 
